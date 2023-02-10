@@ -2,4 +2,4 @@
 ## 1刷〜
 | ページ |  場所 |  誤  |  正  |
 | ---- | ---- | ---- | ---- |
-|p.135|定理4.5(第ニ移動定理)|$\mathcal{L}^{-1} \\{\mathcal{U}(t-a)f(t-a)\\} = e^{-as}F(s)$|$\mathcal{L}\\{\mathcal{U}(t-a)f(t-a)\\} = e^{-as}F(s)$|
+|p.135|定理4.5(第二移動定理)|$\mathcal{L}^{-1} \\{\mathcal{U}(t-a)f(t-a)\\} = e^{-as}F(s)$|$\mathcal{L}\\{\mathcal{U}(t-a)f(t-a)\\} = e^{-as}F(s)$|
