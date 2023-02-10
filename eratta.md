@@ -1,6 +1,6 @@
 # 正誤表
 ## 1刷〜
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>ページ<br>&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>場所<br>&nbsp; |  &nbsp;<br>誤<br>&nbsp;  |  &nbsp;<br>正<br>&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>備考<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>ページ<br>&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>場所<br>&nbsp; |  &nbsp;<br>誤<br>&nbsp;  |  &nbsp;<br>正<br>&nbsp;  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>備考<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :---: | :------: | ---- | ---- | ---- |
 |p.135|定理4.5<br>第二移動定理|$\mathcal{L}^{-1} \\{\mathcal{U}(t-a)f(t-a)\\} = e^{-as}F(s)$|$\mathcal{L}\\{\mathcal{U}(t-a)f(t-a)\\} = e^{-as}F(s)$||
 |p.139|問題4.1|$\left.-\dfrac{e^{-(s-a)^{t}}}{s-a}\right\\|^\infty_0$|$\left.-\dfrac{e^{-(s-a)t}}{s-a}\right\\|^\infty_0$||
