@@ -28,6 +28,6 @@
 - あくまで本書における対応関係であって，一般的な学問体系としての対応関係ではない，ことにご注意ください．
 
 <div align="center">
-<kbd><img src="https://github.com/sol-sun/advanced_mathematics/blob/main/other/目次.png" alt="完全独習応用数学" title="完全独習応用数学" width="70%" border="5" style="border: 1px red solid;">
-<img src="https://github.com/sol-sun/advanced_mathematics/blob/main/other/対応図.png" alt="完全独習応用数学" title="完全独習応用数学" width="70%" border="5" style="border: 1px red solid;"></kbd>
+<kbd><img src="https://github.com/sol-sun/advanced_mathematics/blob/main/other/目次.png" alt="完全独習応用数学" title="完全独習応用数学" width="70%">
+<img src="https://github.com/sol-sun/advanced_mathematics/blob/main/other/対応図.png" alt="完全独習応用数学" title="完全独習応用数学" width="70%"></kbd>
 </div>
