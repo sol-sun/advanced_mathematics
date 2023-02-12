@@ -27,11 +27,7 @@
    - 例) 偏微分方程式(12章)の演習問題の一部に，ベッセル関数(10章)による解法が存在する．
 - あくまで本書における対応関係であって，一般的な学問体系としての対応関係ではない，ことにご注意ください．
 
-<p>
 <div align="center">
-<img src="https://github.com/sol-sun/advanced_mathematics/blob/main/other/目次.png" width="60%">
+<kbd><img src="https://github.com/sol-sun/advanced_mathematics/blob/main/other/目次.png" alt="完全独習応用数学" title="完全独習応用数学" width="70%" border="5" style="border: 1px red solid;">
+<img src="https://github.com/sol-sun/advanced_mathematics/blob/main/other/対応図.png" alt="完全独習応用数学" title="完全独習応用数学" width="70%" border="5" style="border: 1px red solid;"></kbd>
 </div>
-<div align="center">
-<img src="https://github.com/sol-sun/advanced_mathematics/blob/main/other/対応図.png" width="70%">
-</div>
-</p>
