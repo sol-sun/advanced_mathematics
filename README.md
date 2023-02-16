@@ -3,7 +3,7 @@
 <kbd><img src="./other/カバー表紙デザイン.png" alt="完全独習応用数学" title="完全独習応用数学" width="60%" border="5" style="border: 1px red solid;"></kbd>
 </div>
 <br>
-<a href="https://www.amazon.co.jp/dp/4910612076" target="_blank" rel="noopener noreferrer">書籍『解きながら学ぶ  完全独習 応用数学(プレアデス, 2023)』</a>のサポートページです．
+<a href="https://www.amazon.co.jp/dp/4910612076" target="_blank" rel="noopener noreferrer">『解きながら学ぶ  完全独習 応用数学(プレアデス, 2023)』</a>のサポートページです．
 
 # 補足問題について
 準備中
